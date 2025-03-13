@@ -3,6 +3,7 @@
 
 ## Application link - https://deccanai-ml-assignment-jezzxrzzebah7etuevylps.streamlit
 
+### Note: If you don't get response from the backend when you start the application, wait some time to let the deployed backend server start 
  
 This project implements a machine learning model to predict house prices based on various features. It includes data preprocessing, model training, evaluation, and deployment as a REST API with a Streamlit frontend.
 
