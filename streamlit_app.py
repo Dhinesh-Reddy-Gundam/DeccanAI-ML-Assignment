@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # API endpoint URL - change this if your API is running on a different host/port
-API_URL = "http://localhost:8000"
+API_URL = "https://deccanai-ml-assignment.onrender.com"
 
 def get_api_status():
     """Check if the API is running and return health status"""
