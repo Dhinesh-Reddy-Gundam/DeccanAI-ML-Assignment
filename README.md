@@ -1,5 +1,9 @@
 # House Price Prediction Model
 
+
+## Application link - https://deccanai-ml-assignment-jezzxrzzebah7etuevylps.streamlit
+
+ 
 This project implements a machine learning model to predict house prices based on various features. It includes data preprocessing, model training, evaluation, and deployment as a REST API with a Streamlit frontend.
 
 ## Dataset
@@ -152,10 +156,4 @@ The project includes a Streamlit-based user interface for easy interaction with 
 
 1. Start the FastAPI server as described above
 2. Run the Streamlit app: `streamlit run streamlit_app_simple.py`
-3. Access the frontend at http://localhost:8501
 
-The frontend provides:
-- Interactive sliders for entering house features
-- Map-based selection for location coordinates
-- Visual predictions with additional value metrics
-- Model performance information and feature importance visualization
