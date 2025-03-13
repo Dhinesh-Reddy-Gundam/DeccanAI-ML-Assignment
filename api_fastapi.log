@@ -1,0 +1,113 @@
+ 2025-03-09 15:51:46,590 - app - ERROR - Error loading model: No module named 'xgboost'
+2025-03-09 16:36:28,824 - app - INFO - Model loaded successfully
+2025-03-09 16:37:06,367 - __main__ - INFO - Model loaded successfully
+2025-03-09 16:39:25,723 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 16:39:46,771 - app - INFO - Received prediction request: {'MedInc': 8.3, 'HouseAge': 41.0, 'AveRooms': 7.0, 'AveBedrms': 1.0, 'Population': 322.0, 'AveOccup': 2.6, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-09 16:39:46,813 - app - INFO - Prediction: 4.4526143074035645
+2025-03-09 16:39:48,853 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 16:55:04,885 - app - INFO - Model loaded successfully
+2025-03-09 16:58:45,329 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 16:59:15,319 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 16:59:24,829 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 16:59:32,550 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:23,466 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:28,691 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:34,343 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:43,237 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:46,366 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:01:51,160 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:02:01,132 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:02:10,743 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:02:28,270 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:02:37,201 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:02:44,608 - app - INFO - Received prediction request: {'MedInc': 9.5, 'HouseAge': 35.0, 'AveRooms': 5.0, 'AveBedrms': 2.0, 'Population': 52.0, 'AveOccup': 2.0, 'Latitude': 35.0, 'Longitude': -114.1}
+2025-03-09 17:02:44,625 - app - INFO - Prediction: 2.6862688064575195
+2025-03-09 17:02:46,649 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:14:10,935 - app - INFO - Model loaded successfully
+2025-03-09 17:14:41,506 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 17:14:41,603 - app - INFO - Model loaded successfully
+2025-03-09 17:15:45,124 - app - INFO - Received prediction request: {'MedInc': 9.5, 'HouseAge': 35.0, 'AveRooms': 5.0, 'AveBedrms': 2.0, 'Population': 52.0, 'AveOccup': 2.0, 'Latitude': 35.0, 'Longitude': -114.1}
+2025-03-09 17:15:45,132 - app - INFO - Prediction: 2.6862688064575195
+2025-03-09 17:15:47,159 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 17:17:46,708 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 17:17:46,810 - app - INFO - Model loaded successfully
+2025-03-09 17:18:04,747 - app - INFO - Received prediction request: {'MedInc': 9.5, 'HouseAge': 35.0, 'AveRooms': 5.0, 'AveBedrms': 2.0, 'Population': 52.0, 'AveOccup': 2.0, 'Latitude': 35.0, 'Longitude': -114.1}
+2025-03-09 17:18:04,747 - app - INFO - Prediction: 2.6862688064575195
+2025-03-09 17:18:06,773 - app - ERROR - Error getting model info: 'XGBModel' object has no attribute 'device'
+2025-03-09 18:40:10,545 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 18:40:10,648 - app - ERROR - Error loading model: 'XGBModel' object has no attribute 'device'
+2025-03-09 18:45:28,601 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 18:45:28,701 - app - ERROR - Error loading model: 'XGBModel' object has no attribute 'device'
+2025-03-09 18:46:24,373 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 18:46:24,472 - app - ERROR - Error loading model: 'XGBModel' object has no attribute 'device'
+2025-03-09 19:16:18,440 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-09 19:16:18,440 - app - ERROR - Error loading model: [Errno 2] No such file or directory: 'C:\\Users\\gunda\\Downloads\\DeccanAI-ML-Assignment\\models\\xgboost_model.joblib'
+2025-03-10 10:31:38,473 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-10 10:31:38,708 - app - INFO - Model from Joblib is: XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.1, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=5, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=100, n_jobs=None,
+             num_parallel_tree=None, random_state=42, ...)
+2025-03-10 10:31:38,734 - app - INFO - Model loaded successfully
+2025-03-10 10:32:51,049 - app - INFO - Received prediction request: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:32:51,075 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 10:32:55,129 - app - INFO - Received prediction request: {'MedInc': 2.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:32:55,132 - app - INFO - Prediction: 1.5643459558486938
+2025-03-10 10:32:57,274 - app - INFO - Received prediction request: {'MedInc': 4.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:32:57,274 - app - INFO - Prediction: 2.4703900814056396
+2025-03-10 10:32:59,419 - app - INFO - Received prediction request: {'MedInc': 6.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:32:59,419 - app - INFO - Prediction: 3.485924005508423
+2025-03-10 10:33:01,559 - app - INFO - Received prediction request: {'MedInc': 8.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:33:01,570 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 10:33:03,695 - app - INFO - Received prediction request: {'MedInc': 10.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:33:03,695 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 10:33:26,114 - app - INFO - Received prediction request: {'MedInc': 8.3, 'HouseAge': 41.0, 'AveRooms': 7.0, 'AveBedrms': 1.0, 'Population': 322.0, 'AveOccup': 2.6, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 10:33:26,114 - app - INFO - Prediction: 4.403273582458496
+2025-03-10 11:05:09,759 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-10 11:05:09,855 - app - INFO - Model from Joblib is: XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.1, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=5, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=100, n_jobs=None,
+             num_parallel_tree=None, random_state=42, ...)
+2025-03-10 11:05:09,864 - app - INFO - Model loaded successfully
+2025-03-10 11:05:45,121 - app - INFO - Received prediction request: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:45,130 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 11:05:49,211 - app - INFO - Received prediction request: {'MedInc': 2.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:49,211 - app - INFO - Prediction: 1.5643459558486938
+2025-03-10 11:05:51,354 - app - INFO - Received prediction request: {'MedInc': 4.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:51,354 - app - INFO - Prediction: 2.4703900814056396
+2025-03-10 11:05:53,506 - app - INFO - Received prediction request: {'MedInc': 6.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:53,506 - app - INFO - Prediction: 3.485924005508423
+2025-03-10 11:05:55,651 - app - INFO - Received prediction request: {'MedInc': 8.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:55,651 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 11:05:57,788 - app - INFO - Received prediction request: {'MedInc': 10.0, 'HouseAge': 41.0, 'AveRooms': 6.984127, 'AveBedrms': 1.02381, 'Population': 322.0, 'AveOccup': 2.555556, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:05:57,788 - app - INFO - Prediction: 4.384480953216553
+2025-03-10 11:09:43,120 - app - INFO - Received prediction request: {'MedInc': 8.3, 'HouseAge': 41.0, 'AveRooms': 7.0, 'AveBedrms': 1.0, 'Population': 322.0, 'AveOccup': 2.6, 'Latitude': 37.88, 'Longitude': -122.23}
+2025-03-10 11:09:43,134 - app - INFO - Prediction: 4.403273582458496
+2025-03-12 22:20:36,289 - app - INFO - C:\Users\gunda\Downloads\DeccanAI-ML-Assignment\models
+2025-03-12 22:20:36,686 - app - INFO - Model from Joblib is: XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=0.1, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=5, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             multi_strategy=None, n_estimators=100, n_jobs=None,
+             num_parallel_tree=None, random_state=42, ...)
+2025-03-12 22:20:36,704 - app - INFO - Model loaded successfully
+2025-03-12 22:24:55,888 - app - INFO - Received prediction request: {'MedInc': 7.2574, 'HouseAge': 52.0, 'AveRooms': 8.288136, 'AveBedrms': 1.073446, 'Population': 496.0, 'AveOccup': 2.80226, 'Latitude': 37.85, 'Longitude': -122.24}
+2025-03-12 22:24:55,935 - app - INFO - Prediction: 4.207662105560303

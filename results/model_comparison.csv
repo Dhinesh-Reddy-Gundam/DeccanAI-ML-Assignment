@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R²,Training Time (s)
+XGBoost,0.4648,0.3105,0.8292,0.26
+Random Forest,0.4937,0.3261,0.8072,14.76
+Linear Regression,0.6501,0.4762,0.6657,0.01
+Decision Tree,0.6851,0.4469,0.6288,0.23
