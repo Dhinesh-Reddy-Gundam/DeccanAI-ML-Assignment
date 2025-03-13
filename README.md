@@ -159,7 +159,3 @@ The frontend provides:
 - Map-based selection for location coordinates
 - Visual predictions with additional value metrics
 - Model performance information and feature importance visualization
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
